@@ -24,7 +24,7 @@ This project is a clone of Reddit's r/place, where users collaboratively create 
   - `redux` for state management.
   - `socket.io-client` for real-time communication.
   - `react-color` for color picker functionality.
-  
+
 ### Backend
 
 - **Technology**: Node.js with Express
@@ -125,7 +125,7 @@ PORT=3001
 
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/JJeCho/rplaceClone
     cd rplaceClone
     ```
 
